@@ -1,0 +1,189 @@
+body {
+  margin: 2em;
+}
+.A {
+  background-color: lemonchiffon;
+  padding: 3rem;
+}
+.header {
+  top: 2rem;
+  left: -0.1rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 8rem;
+  font-size: larger;
+  margin-top: 0rem;
+  padding-top: 0px;
+}
+.logo {
+  left: -0.1rem;
+  margin-left: -20%;
+  font-size: xx-large;
+  font-style: normal;
+}
+.okay {
+  color: white;
+  background-color: blue;
+  border-radius: 10rem;
+  font-size: x-small;
+  border-color: blue;
+}
+nav {
+  justify-content: space-between;
+  text-decoration: none;
+}
+p {
+  font-size: medium;
+  font-style: italic;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.me {
+  font-size: xx-large;
+}
+.hello {
+  font-size: xx-small;
+  font-family: monospace;
+  font-style: normaL;
+}
+.fefe {
+  margin-left: 37rem;
+}
+
+.hire a:before {
+  height: 100%;
+  transition: 4s;
+}
+.dodo {
+  margin-left: 50rem;
+  margin-top: -17rem;
+  margin-right: 10rem;
+  font-size: x-small;
+  padding-bottom: -1rem;
+}
+.kk {
+  display: flex;
+  justify-content: space-between;
+}
+
+.kk hr {
+  display: flex;
+  justify-content: center;
+}
+img {
+  margin-top: 0rem;
+  width: 16rem;
+  margin-left: 3rem;
+  padding-bottom: -20rem;
+}
+h1 {
+  justify-content: center;
+}
+
+hr {
+  border-radius: 5rem;
+  border: strong;
+  background-color: blue;
+  width: 2rem;
+  margin-right: 14rem;
+}
+.B {
+  margin-left: 37rem;
+  background-color: white;
+}
+.cypry {
+  width: 2rem;
+  display: flex;
+  margin-top: -1rem;
+  margin-left: 9rem;
+  margin-right: 16rem;
+  height: 11rem;
+  margin-bottom: -6rem;
+}
+.fifi {
+  width: -1rem;
+  margin-top: 7rem;
+  display: flex;
+  margin-left: 9rem;
+  height: 11rem;
+  margin-bottom: -3rem;
+  margin-right: 16rem;
+}
+.C {
+  background-color: lightgrey;
+  padding: 4.2rem;
+}
+.D {
+  background-color: white;
+}
+.E {
+  background-color: lightgrey;
+}
+.F {
+  background-color: white;
+  justify-content: space-evenly;
+}
+.bibi ul {
+  background-color: white;
+  color: blue;
+  margin-left: 30rem;
+  list-style: none;
+  display: flex;
+}
+.fefe {
+  margin-top: -4rem;
+  padding-bottom: 3rem;
+}
+.gogo {
+  margin-left: 34rem;
+  margin-top: 1rem;
+  font-size: large;
+  font-weight: 100;
+}
+.lell {
+  margin-left: 32rem;
+  margin-top: -4rem;
+  font-size: large;
+  font-weight: 100;
+}
+.bye img {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 10rem;
+  margin-left: 35rem;
+}
+.oppo {
+  margin-left: 33rem;
+  margin-top: -1rem;
+  font-size: small;
+}
+.fresh {
+  margin-left: 34rem;
+  color: blue;
+}
+.hello {
+  text-align: center;
+  font-size: x-small;
+}
+.nop {
+  border-radius: 10rem;
+  color: blue;
+  background-color: white;
+  margin-left: 60rem;
+  background-color: white;
+  border-color: blue;
+}
+.A {
+  padding: -1rem;
+}
+.pp:hover {
+  background-color: blue;
+}
+.bb:hover {
+  background-color: blue;
+}
+.cc:hover {
+  background-color: blue;
+}
